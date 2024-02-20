@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="col-md-4 d-flex align-items-center ms-2 ms-ms-4" id="footer-text">
         <i className="fa-solid fa-music mx-2"></i>
         <span>Melody</span>
-        <span className="text-muted ms-3"> © 2021 - 2023 powered by <a href="https://www.greyinfotech.com.ng" target="_blank">Grey InfoTech Ltd.</a></span>
+        <span className="text-muted"> © 2021 - 2024 powered by <a href="https://www.greyinfotech.com.ng" target="_blank">Grey InfoTech Ltd.</a></span>
       </div>
       <ul className="nav col-md-4 justify-content-end list-unstyled d-flex me-2 me-md-4">
         <li className="ms-3">
