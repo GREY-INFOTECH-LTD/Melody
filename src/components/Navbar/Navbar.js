@@ -25,12 +25,12 @@ const Navbar = () => {
           </a>
         </li>
         <li className="nav-item">
-          <a href="https://twitter.com/" target={'_blank'} rel="noreferrer" className="nav-link link-dark px-2">
+          <a href="https://twitter.com/greyinfotechltd" target={'_blank'} rel="noreferrer" className="nav-link link-dark px-2">
             <i className="fab fa-twitter"></i>
           </a>
         </li>
         <li className="nav-item">
-        <a href="https://facebook.com/" target={'_blank'} rel="noreferrer" className="nav-link link-dark px-2">
+        <a href="https://facebook.com/greyinfotechltd" target={'_blank'} rel="noreferrer" className="nav-link link-dark px-2">
             <i className="fab fa-facebook"></i>
           </a>
         </li>

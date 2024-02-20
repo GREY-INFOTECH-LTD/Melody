@@ -23,7 +23,7 @@ const Footer = () => {
           <a
             className="text-muted"
             rel="noreferrer"
-            href="https://twitter.com/"
+            href="https://twitter.com/greyinfotechltd"
             target="_blank"
           >
             <i className="fab fa-twitter"></i>
@@ -33,7 +33,7 @@ const Footer = () => {
           <a
             className="text-muted"
             rel="noreferrer"
-            href="https://facebook.com/"
+            href="https://facebook.com/greyinfotechltd"
             target="_blank"
           >
             <i className="fab fa-facebook"></i>
