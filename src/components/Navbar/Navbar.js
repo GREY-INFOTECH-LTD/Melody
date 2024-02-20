@@ -13,8 +13,8 @@ const Navbar = () => {
             aria-current="page"
             id="home"
           >
-            <i className="fas fa-headphones-simple bi mx-2"></i>
-            Muzak
+            <i className="fas fa-music-simple bi mx-2"></i>
+            Melody
           </a>
         </li>
       </ul>
