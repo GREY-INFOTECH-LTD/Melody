@@ -4,10 +4,9 @@ const Footer = () => {
   return (
     <footer className="d-none d-md-flex flex-wrap py-3 py-md-4 justify-content-between align-items-center border-top">
       <div className="col-md-4 d-flex align-items-center ms-2 ms-ms-4" id="footer-text">
-        <i className="fas fa-headphones-simple mx-2"></i>
-        <span className="rainbow-text">Mel</span><span>ody</span>
-        <span className="text-muted ms-1"> © 2021 - 2023 powered by</span>
-        <a href="https://www.greyinfotech.com.ng" target="_blank"><span className="rainbow-text ms-1">Grey</span> Info<span className="rainbow-text">Tech</span>Ltd.</a>
+        <i className="fa-solid fa-music mx-2"></i>
+        <span>Melody</span>
+        <span className="text-muted ms-1"> © 2021 - 2023 powered by <a href="https://www.greyinfotech.com.ng" target="_blank">Grey InfoTech Ltd.</a>
       </div>
       <ul className="nav col-md-4 justify-content-end list-unstyled d-flex me-2 me-md-4">
         <li className="ms-3">
