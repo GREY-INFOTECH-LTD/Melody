@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="d-none d-md-flex flex-wrap py-3 py-md-4 justify-content-between align-items-center border-top">
-      <div className="col-md-4 d-flex align-items-center ms-2 ms-ms-4" id="footer-text">
+      <div className="col-md-5 d-flex align-items-center ms-2 ms-ms-5" id="footer-text">
         <i className="fa-solid fa-music mx-2"></i>
         <span>Melody</span>
         <span className="text-muted  style='font-size:5px'"> © 2021 - 2024 powered by <a href="https://www.greyinfotech.com.ng" target="_blank">Grey InfoTech Ltd.</a></span>
